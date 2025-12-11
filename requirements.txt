@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+pyTelegramBotAPI==4.23.0
+torch==2.4.0+cpu
+torchaudio==2.4.0+cpu
+demucs==4.0.1
+diffq==0.4.0
+Flask==3.0.3
