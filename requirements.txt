@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.23.0
+torch==2.4.0
+torchaudio==2.4.0
+demucs==4.0.3
+diffq==0.4.0
+Flask==3.0.3
